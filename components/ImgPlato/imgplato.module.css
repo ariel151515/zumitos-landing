@@ -1,0 +1,12 @@
+.plato{
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+
+/* styles.module.css */
+.plato img {
+    width: 100%;
+    height: auto; /* Esto asegura que la altura se ajuste automáticamente para mantener las proporciones originales */
+    /* Puedes agregar más propiedades según sea necesario */
+}

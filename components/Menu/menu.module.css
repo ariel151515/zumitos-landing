@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Alinea los elementos hijos en el centro horizontalmente */
+    border: solid 1px #fff;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+span{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+}
+
+.menuimg{
+   margin-bottom: 20px;
+   width: 60%;
+}

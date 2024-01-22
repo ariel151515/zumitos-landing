@@ -1,0 +1,12 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Centra verticalmente */
+    flex-direction: column;
+    max-width: 500px;
+    height: 100vh; /* Asegura que el contenedor ocupe el 100% de la altura de la ventana */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  

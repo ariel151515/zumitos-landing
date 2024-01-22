@@ -1,0 +1,17 @@
+.btn {
+    background:#00a884;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+
+    
+    display: flex;
+    padding: 5% 20% 5% 20%;
+    align-items: center; /* Alinea verticalmente en el centro */
+    gap: 15px;
+    border-radius:50px;
+    cursor: pointer;
+    border-bottom:solid 5px #005b47 ;
+    font-size:1.2em;
+    text-shadow: 1px 1px 1px #384846;
+    margin-bottom:40%;
+}
